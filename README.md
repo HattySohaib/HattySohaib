@@ -14,20 +14,28 @@ I have always been interested in open source development although I have little 
 
 
 <h2> Here are some of the technologies I have learnt: </h2>
-
-
-![](https://github.com/HattySohaib/HattySohaib/blob/f996c1ce730089b98552fa48397ce95d63ff8c6f/icons8-html-5-50.png)&nbsp;
-![](https://github.com/HattySohaib/HattySohaib/blob/f996c1ce730089b98552fa48397ce95d63ff8c6f/icons8-css3-50.png)&nbsp;
-![](https://github.com/HattySohaib/HattySohaib/blob/f996c1ce730089b98552fa48397ce95d63ff8c6f/icons8-bootstrap-50.png)&nbsp;
-![](https://github.com/HattySohaib/HattySohaib/blob/f996c1ce730089b98552fa48397ce95d63ff8c6f/icons8-javascript-50.png)&nbsp;
-![](https://github.com/HattySohaib/HattySohaib/blob/f996c1ce730089b98552fa48397ce95d63ff8c6f/icons8-nodejs-50.png)&nbsp;
-![](https://github.com/HattySohaib/HattySohaib/blob/f996c1ce730089b98552fa48397ce95d63ff8c6f/icons8-react-native-50.png)&nbsp;
-![](https://github.com/HattySohaib/HattySohaib/blob/f996c1ce730089b98552fa48397ce95d63ff8c6f/icons8-express-js-64.png)&nbsp;
-![](https://github.com/HattySohaib/HattySohaib/blob/f996c1ce730089b98552fa48397ce95d63ff8c6f/icons8-mongodb-a-cross-platform-document-oriented-database-program-50.png)&nbsp;
-![](https://github.com/HattySohaib/HattySohaib/blob/f996c1ce730089b98552fa48397ce95d63ff8c6f/icons8-mysql-50.png)&nbsp;
-![](https://github.com/HattySohaib/HattySohaib/blob/f996c1ce730089b98552fa48397ce95d63ff8c6f/icons8-git-50.png)&nbsp;
-![](https://github.com/HattySohaib/HattySohaib/blob/f996c1ce730089b98552fa48397ce95d63ff8c6f/icons8-visual-studio-code-2019-50.png)&nbsp;
+<div >
+<img display="inline" src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" width="50" /> &nbsp;
+<img src="https://user-images.githubusercontent.com/25181517/192108374-8da61ba1-99ec-41d7-80b8-fb2f7c0a4948.png" width="50" />&nbsp;
+<img src="https://user-images.githubusercontent.com/25181517/192108891-d86b6220-e232-423a-bf5f-90903e6887c3.png" width="50"  />&nbsp;
+<img src="https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png" width="50"/>&nbsp;
+<img src="https://user-images.githubusercontent.com/25181517/183898674-75a4a1b1-f960-4ea9-abcb-637170a00a75.png" width="50" />&nbsp;
+<img src="https://user-images.githubusercontent.com/25181517/183898054-b3d693d4-dafb-4808-a509-bab54cf5de34.png" width="50" />&nbsp;
+<img src="https://user-images.githubusercontent.com/25181517/189715289-df3ee512-6eca-463f-a0f4-c10d94a06b2f.png" width="50"/>&nbsp;&nbsp;
+<img src="https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png" width="50"/>&nbsp;
+<img src="https://user-images.githubusercontent.com/25181517/183897015-94a058a6-b86e-4e42-a37f-bf92061753e5.png" width="50"/>&nbsp;
+<img src="https://user-images.githubusercontent.com/25181517/183568594-85e280a7-0d7e-4d1a-9028-c8c2209e073c.png" width="50"/>&nbsp;
+<img src="https://user-images.githubusercontent.com/25181517/183859966-a3462d8d-1bc7-4880-b353-e2cbed900ed6.png" width="50"/>&nbsp;
+<img src="https://user-images.githubusercontent.com/25181517/192106070-46255bcf-65e6-4c6b-a296-bf8d0d8fb2a7.png" width="50"/>&nbsp;
+<img src="https://user-images.githubusercontent.com/25181517/183423507-c056a6f9-1ba8-4312-a350-19bcbc5a8697.png" width="50"/>&nbsp;
+<img src="https://user-images.githubusercontent.com/25181517/183896128-ec99105a-ec1a-4d85-b08b-1aa1620b2046.png" width="50"/>&nbsp;
+</div>
+<br>
+<div>
+<img src="https://user-images.githubusercontent.com/25181517/182884177-d48a8579-2cd0-447a-b9a6-ffc7cb02560e.png" width="50"/>&nbsp;
+<img src="https://user-images.githubusercontent.com/25181517/186884153-99edc188-e4aa-4c84-91b0-e2df260ebc33.png" width="50"/>&nbsp;
+  </div>
 
 <h2>Get in touch with me: </h2>
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/sohaibaftab//) &nbsp;&nbsp;&nbsp;&nbsp;[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/https://www.instagram.com/sohaibaftab.29//) &nbsp;&nbsp;&nbsp;&nbsp;[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/https://www.twitter.com/HattySohaib) &nbsp;&nbsp;&nbsp;&nbsp; [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/https://www.youtube.com/channel/UCMJbHcxfr6RkbGDXwh95RTw)  
+[<img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' alt='linkedin' height='20'>](https://www.linkedin.com/in/https://www.linkedin.com/in/sohaibaftab//) &nbsp;&nbsp;&nbsp;&nbsp;[<img src='https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white' alt='instagram' height='20'>](https://www.instagram.com/https://www.instagram.com/sohaibaftab.29//) &nbsp;&nbsp;&nbsp;&nbsp;[<img src='https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white' alt='twitter' height='20'>](https://twitter.com/https://www.twitter.com/HattySohaib) &nbsp;&nbsp;&nbsp;&nbsp; [<img src='https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white' alt='YouTube' height='20'>](https://www.youtube.com/channel/https://www.youtube.com/channel/UCMJbHcxfr6RkbGDXwh95RTw)  

@@ -1,5 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Outfit&pause=1000&color=0794F7&width=435&lines=Hey+there!+I+am+Sohaib+Aftab.;A+Developer+and+Designer+from+India.)](https://git.io/typing-svg)
-<img src="https://github.com/HattySohaib/HattySohaib/blob/37ec5d7089dfc3bf1a9f72f8ae09d1c4b39d17bf/Freelance%20Developer%20(3).png"  height="160" />
+<img src="https://github.com/HattySohaib/HattySohaib/blob/37ec5d7089dfc3bf1a9f72f8ae09d1c4b39d17bf/Freelance%20Developer%20(3).png" />
 <br>
 
 I am a student of Artificial Intelligence & Data Science at the Indian Institute of Information Technology, Design

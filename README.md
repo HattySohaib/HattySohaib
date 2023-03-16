@@ -1,4 +1,4 @@
-### Hey, I'm Sohaib Aftab from India.
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Outfit&pause=1000&color=0794F7&width=435&lines=Hey+there!+I+am+Sohaib+Aftab.;A+Developer+and+Designer+from+India.)](https://git.io/typing-svg)
 
 I am a student of Artificial Intelligence & Data Science at the Indian Institute of Information Technology, Design
 and Manufacturing, Kurnool. I am broadly interested in web 2.0 and web 3.0 development technologies. 
@@ -10,7 +10,7 @@ Presently, I'm trying my hands on Android+iOS development with React Native, and
 I have always been interested in open source development although I have little experience in collaborative development. So, I am looking forward to learning from the community.
 
 [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=hattysohaib&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hattysohaib&layout=compact&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hattysohaib&layout=compact&theme=transparent&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Here are some of the technologies I have learnt:
 

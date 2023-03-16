@@ -9,7 +9,8 @@ Presently, I'm trying my hands on Android+iOS development with React Native, and
 
 I have always been interested in open source development although I have little experience in collaborative development. So, I am looking forward to learning from the community.
 
-[![Sohaib's GitHub stats](https://github-readme-stats.vercel.app/api?username=hattysohaib)](https://github.com/anuraghazra/github-readme-stats)
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=hattysohaib&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hattysohaib&layout=compact&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Here are some of the technologies I have learnt:
 ![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=html5&logoColor=ffffff&labelColor=E34F26)

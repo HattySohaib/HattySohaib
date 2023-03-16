@@ -14,16 +14,16 @@ I have always been interested in open source development although I have little 
 
 ### Here are some of the technologies I have learnt:
 
-![](https://github.com/HattySohaib/HattySohaib/blob/f996c1ce730089b98552fa48397ce95d63ff8c6f/icons8-bootstrap-50.png)
-![](https://github.com/HattySohaib/HattySohaib/blob/f996c1ce730089b98552fa48397ce95d63ff8c6f/icons8-css3-50.png)
-![](https://github.com/HattySohaib/HattySohaib/blob/f996c1ce730089b98552fa48397ce95d63ff8c6f/icons8-express-js-64.png)
-![](https://github.com/HattySohaib/HattySohaib/blob/f996c1ce730089b98552fa48397ce95d63ff8c6f/icons8-git-50.png)
 ![](https://github.com/HattySohaib/HattySohaib/blob/f996c1ce730089b98552fa48397ce95d63ff8c6f/icons8-html-5-50.png)
-![](https://github.com/HattySohaib/HattySohaib/blob/f996c1ce730089b98552fa48397ce95d63ff8c6f/icons8-javascript-50.png))
-![](https://github.com/HattySohaib/HattySohaib/blob/f996c1ce730089b98552fa48397ce95d63ff8c6f/icons8-mongodb-a-cross-platform-document-oriented-database-program-50.png)
-![](https://github.com/HattySohaib/HattySohaib/blob/f996c1ce730089b98552fa48397ce95d63ff8c6f/icons8-mysql-50.png)
+![](https://github.com/HattySohaib/HattySohaib/blob/f996c1ce730089b98552fa48397ce95d63ff8c6f/icons8-css3-50.png)
+![](https://github.com/HattySohaib/HattySohaib/blob/f996c1ce730089b98552fa48397ce95d63ff8c6f/icons8-bootstrap-50.png)
+![](https://github.com/HattySohaib/HattySohaib/blob/f996c1ce730089b98552fa48397ce95d63ff8c6f/icons8-javascript-50.png)
 ![](https://github.com/HattySohaib/HattySohaib/blob/f996c1ce730089b98552fa48397ce95d63ff8c6f/icons8-nodejs-50.png)
 ![](https://github.com/HattySohaib/HattySohaib/blob/f996c1ce730089b98552fa48397ce95d63ff8c6f/icons8-react-native-50.png)
+![](https://github.com/HattySohaib/HattySohaib/blob/f996c1ce730089b98552fa48397ce95d63ff8c6f/icons8-express-js-64.png)
+![](https://github.com/HattySohaib/HattySohaib/blob/f996c1ce730089b98552fa48397ce95d63ff8c6f/icons8-mongodb-a-cross-platform-document-oriented-database-program-50.png)
+![](https://github.com/HattySohaib/HattySohaib/blob/f996c1ce730089b98552fa48397ce95d63ff8c6f/icons8-mysql-50.png)
+![](https://github.com/HattySohaib/HattySohaib/blob/f996c1ce730089b98552fa48397ce95d63ff8c6f/icons8-git-50.png)
 ![](https://github.com/HattySohaib/HattySohaib/blob/f996c1ce730089b98552fa48397ce95d63ff8c6f/icons8-visual-studio-code-2019-50.png)
 
 

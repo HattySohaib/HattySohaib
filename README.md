@@ -1,4 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Outfit&pause=1000&color=0794F7&width=435&lines=Hey+there!+I+am+Sohaib+Aftab.;A+Developer+and+Designer+from+India.)](https://git.io/typing-svg)
+<img align="center" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+<br>
 
 I am a student of Artificial Intelligence & Data Science at the Indian Institute of Information Technology, Design
 and Manufacturing, Kurnool. I am broadly interested in web 2.0 and web 3.0 development technologies. 

@@ -1,5 +1,4 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Outfit&pause=1000&color=ffffff&width=435&lines=Hey+there!+I+am+Sohaib+Aftab.;A+Developer+and+Designer+from+India.)](https://git.io/typing-svg)
-<img src="https://github.com/HattySohaib/HattySohaib/blob/37ec5d7089dfc3bf1a9f72f8ae09d1c4b39d17bf/Freelance%20Developer%20(3).png" />
 <br>
 
 <p>I am a student of Computer Science and Engineering [2026] at the Indian Institute of Information Technology, Design and Manufacturing, Kurnool. I am broadly interested in web 2.0 development technologies. 

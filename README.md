@@ -2,11 +2,11 @@
 <img src="https://github.com/HattySohaib/HattySohaib/blob/37ec5d7089dfc3bf1a9f72f8ae09d1c4b39d17bf/Freelance%20Developer%20(3).png" />
 <br>
 
-<p>I am a student of Computer Science and Engineering at the Indian Institute of Information Technology, Design and Manufacturing, Kurnool. I am broadly interested in web 2.0 development technologies. 
+<p>I am a student of Computer Science and Engineering [2026] at the Indian Institute of Information Technology, Design and Manufacturing, Kurnool. I am broadly interested in web 2.0 development technologies. 
 
 I like to develop responsive, static or dynamic websites with the powerful MERN stack.I have worked on Backend-heavy webistes with authentication(passport.js, oAuth), RESTful APIs and Database management, as well as on Frontend-heavy websites like portfolios, business websites and SPAs (single-page applications based on React). I also enjoy designing interactive UI/UX prototypes on figma.
 
-Presently, I'm trying my hands on Android+iOS development with React Native, Machine Learning. I am also trying to expand into Django/Flask based backend development since Python is one of the languagues I already know.
+Presently, I'm trying my hands on Android+iOS development with React Native, Machine Learning.
 
 I have always been interested in open source development although I have little experience in collaborative development. So, I am looking forward to learning from the community.<p>
 [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=hattysohaib&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)

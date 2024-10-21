@@ -34,7 +34,4 @@ I have always been interested in open source development although I have little 
 <img src="https://user-images.githubusercontent.com/25181517/182884177-d48a8579-2cd0-447a-b9a6-ffc7cb02560e.png" width="50"/>&nbsp;
 <img src="https://user-images.githubusercontent.com/25181517/186884153-99edc188-e4aa-4c84-91b0-e2df260ebc33.png" width="50"/>&nbsp;
   </div>
-
-<h2>Get in touch with me: </h2>
-
-[<img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' alt='linkedin' height='20'>](https://www.linkedin.com/in/https://www.linkedin.com/in/sohaibaftab//) &nbsp;&nbsp;&nbsp;&nbsp;[<img src='https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white' alt='instagram' height='20'>](https://www.instagram.com/https://www.instagram.com/sohaibaftab.29//) &nbsp;&nbsp;&nbsp;&nbsp;[<img src='https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white' alt='twitter' height='20'>](https://twitter.com/https://www.twitter.com/HattySohaib) &nbsp;&nbsp;&nbsp;&nbsp; [<img src='https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white' alt='YouTube' height='20'>](https://www.youtube.com/channel/https://www.youtube.com/channel/UCMJbHcxfr6RkbGDXwh95RTw)  
+  

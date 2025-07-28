@@ -8,8 +8,6 @@ I like to develop responsive, static or dynamic websites with the powerful MERN 
 Presently, I'm trying my hands on Android+iOS development with React Native, Machine Learning.
 
 I have always been interested in open source development although I have little experience in collaborative development. So, I am looking forward to learning from the community.<p>
-[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=hattysohaib&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hattysohaib&layout=compact&theme=transparent&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <h2> Here are some of the technologies I have learnt: </h2>

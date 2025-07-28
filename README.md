@@ -31,7 +31,5 @@ I have always been interested in open source development although I have little 
 </div>
 <br>
 <div>
-<img src="https://user-images.githubusercontent.com/25181517/182884177-d48a8579-2cd0-447a-b9a6-ffc7cb02560e.png" width="50"/>&nbsp;
-<img src="https://user-images.githubusercontent.com/25181517/186884153-99edc188-e4aa-4c84-91b0-e2df260ebc33.png" width="50"/>&nbsp;
   </div>
   

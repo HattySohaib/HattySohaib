@@ -1,33 +1,25 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Outfit&pause=1000&color=ffffff&width=435&lines=Hey+there!+I+am+Sohaib+Aftab.;A+Developer+and+Designer+from+India.)](https://git.io/typing-svg)
 <br>
 
-<p>I am a student of Computer Science and Engineering [2026] at the Indian Institute of Information Technology, Design and Manufacturing, Kurnool. I am broadly interested in web 2.0 development technologies. 
+<p>I’m a Computer Science and Engineering undergraduate at IIITDM Kurnool, passionate about solving real-world problems through software engineering and system design.
 
-I like to develop responsive, static or dynamic websites with the powerful MERN stack.I have worked on Backend-heavy webistes with authentication(passport.js, oAuth), RESTful APIs and Database management, as well as on Frontend-heavy websites like portfolios, business websites and SPAs (single-page applications based on React). I also enjoy designing interactive UI/UX prototypes on figma.
+With hands-on experience in building full-stack and mobile applications, I've developed and deployed scalable solutions for ERP, mentorship, and education platforms. My tech stack includes React.js, Next.js, Node.js, Express, React Native, MongoDB, Prisma, and AWS (EC2, S3). I’ve also explored areas of machine learning and RESTful API architecture.
 
-Presently, I'm trying my hands on Android+iOS development with React Native, Machine Learning.
+Some highlights of my work:
+- Built and deployed a role-based ERP system using Next.js + MongoDB, reducing manual workload by 50%.
+- Delivered a NEET mentorship platform accessed by 100+ students from 10+ colleges.
+- Published a reusable React blog component to npm with built-in theme support.
+- Launched a cross-platform education app with 15+ screens, managed via a custom CMS.
 
-I have always been interested in open source development although I have little experience in collaborative development. So, I am looking forward to learning from the community.<p>
+Beyond development, I enjoy solving DSA problems, having solved 250+ questions on LeetCode with a contest rating of 1500+.
 
+As the current GDSC Lead at my campus, I’ve led 6+ tech workshops and hosted a campus-wide hackathon, speaking to 100+ attendees — sharpening both my technical and communication skills.
 
-<h2> Here are some of the technologies I have learnt: </h2>
-<div >
-<img display="inline" src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" width="50" /> &nbsp;
-<img src="https://user-images.githubusercontent.com/25181517/192108374-8da61ba1-99ec-41d7-80b8-fb2f7c0a4948.png" width="50" />&nbsp;
-<img src="https://user-images.githubusercontent.com/25181517/192108891-d86b6220-e232-423a-bf5f-90903e6887c3.png" width="50"  />&nbsp;
-<img src="https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png" width="50"/>&nbsp;
-<img src="https://user-images.githubusercontent.com/25181517/183898674-75a4a1b1-f960-4ea9-abcb-637170a00a75.png" width="50" />&nbsp;
-<img src="https://user-images.githubusercontent.com/25181517/183898054-b3d693d4-dafb-4808-a509-bab54cf5de34.png" width="50" />&nbsp;
-<img src="https://user-images.githubusercontent.com/25181517/189715289-df3ee512-6eca-463f-a0f4-c10d94a06b2f.png" width="50"/>&nbsp;&nbsp;
-<img src="https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png" width="50"/>&nbsp;
-<img src="https://user-images.githubusercontent.com/25181517/183897015-94a058a6-b86e-4e42-a37f-bf92061753e5.png" width="50"/>&nbsp;
-<img src="https://user-images.githubusercontent.com/25181517/183568594-85e280a7-0d7e-4d1a-9028-c8c2209e073c.png" width="50"/>&nbsp;
-<img src="https://user-images.githubusercontent.com/25181517/183859966-a3462d8d-1bc7-4880-b353-e2cbed900ed6.png" width="50"/>&nbsp;
-<img src="https://user-images.githubusercontent.com/25181517/192106070-46255bcf-65e6-4c6b-a296-bf8d0d8fb2a7.png" width="50"/>&nbsp;
-<img src="https://user-images.githubusercontent.com/25181517/183423507-c056a6f9-1ba8-4312-a350-19bcbc5a8697.png" width="50"/>&nbsp;
-<img src="https://user-images.githubusercontent.com/25181517/183896128-ec99105a-ec1a-4d85-b08b-1aa1620b2046.png" width="50"/>&nbsp;
-</div>
-<br>
+🎯 I’m currently looking for full-time or internship roles in software development where I can contribute meaningfully while continuing to grow.
+
+📩 Let’s connect if you’re hiring or want to collaborate: sohaibaftab29@gmail.com<p>
+
 <div>
   </div>
   
+

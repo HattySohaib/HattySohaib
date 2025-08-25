@@ -83,13 +83,3 @@ My passion lies in building scalable backend systems, designing cloud infrastruc
 </table>
 
 
----
-
-### 📊 My GitHub Stats
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=HattySohaib&show_icons=true&theme=radical" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HattySohaib&layout=compact&theme=radical" />
-</p>
-
-

@@ -1,25 +1,113 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Outfit&pause=1000&color=ffffff&width=435&lines=Hey+there!+I+am+Sohaib+Aftab.;A+Developer+and+Designer+from+India.)](https://git.io/typing-svg)
-<br>
+# Hi, I'm Sohaib Aftab 👋
 
-<p>I’m a Computer Science and Engineering undergraduate at IIITDM Kurnool, passionate about solving real-world problems through software engineering and system design.
+<a href="https://www.linkedin.com/in/your-linkedin-profile">
+  <img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+<a href="mailto:sohaibaftab29@gmail.com">
+  <img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
+</a>
+<br />
+<br />
 
-With hands-on experience in building full-stack and mobile applications, I've developed and deployed scalable solutions for ERP, mentorship, and education platforms. My tech stack includes React.js, Next.js, Node.js, Express, React Native, MongoDB, Prisma, and AWS (EC2, S3). I’ve also explored areas of machine learning and RESTful API architecture.
+I am a final-year B.Tech. student in Computer Science and Engineering at the Indian Institute of Information Technology, Design and Manufacturing, Kurnool. I am the CSE Department Topper with a current CGPA of 9.24/10.
 
-Some highlights of my work:
-- Built and deployed a role-based ERP system using Next.js + MongoDB, reducing manual workload by 50%.
-- Delivered a NEET mentorship platform accessed by 100+ students from 10+ colleges.
-- Published a reusable React blog component to npm with built-in theme support.
-- Launched a cross-platform education app with 15+ screens, managed via a custom CMS.
+My passion lies in building scalable backend systems, designing cloud infrastructure, and creating robust full-stack applications. I am a dedicated problem-solver with over 400+ DSA problems solved across various platforms and a peak rank of 500th out of 31,773 participants in a Leetcode contest. I am actively seeking full-time Software Development Engineer roles starting in mid-2026.
 
-Beyond development, I enjoy solving DSA problems, having solved 250+ questions on LeetCode with a contest rating of 1500+.
+---
 
-As the current GDSC Lead at my campus, I’ve led 6+ tech workshops and hosted a campus-wide hackathon, speaking to 100+ attendees — sharpening both my technical and communication skills.
+### 🔧 My Tech Stack
 
-🎯 I’m currently looking for full-time or internship roles in software development where I can contribute meaningfully while continuing to grow.
+<table>
+  <tr>
+    <td align="center"><strong>Languages</strong></td>
+    <td align="center"><strong>Frontend & Mobile</strong></td>
+    <td align="center"><strong>Backend</strong></td>
+    <td align="center"><strong>Databases</strong></td>
+    <td align="center"><strong>DevOps & Tools</strong></td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" height="40" alt="C++" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" alt="Python" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript" />
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" alt="React" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40" height="40" alt="Next.js" />
+     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" width="40" height="40" />
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40" alt="Node.js" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40" height="40" alt="Express.js" />
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" height="40" alt="MongoDB" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="40" height="40" alt="MySQL" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prisma/prisma-original.svg" width="40" height="40" alt="Prisma" />
+    </td>
+    <td align="center">
+     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" height="40" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40" alt="Docker" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" alt="Git" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40" alt="GitHub" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="40" height="40" alt="Postman" />
+    </td>
+  </tr>
+</table>
 
-📩 Let’s connect if you’re hiring or want to collaborate: sohaibaftab29@gmail.com<p>
+---
 
-<div>
-  </div>
-  
+### 🚀 My Featured Projects
 
+<table>
+  <tr>
+    <td>
+      <h3><a href="https://github.com/your-username/irada-cms">Irada - CMS + Analytics + Widgets Library</a></h3>
+      <ul>
+        <li>Built a scalable distributed system with a CMS, analytics, and 4 robust widgets published on npm & unpkg.</li>
+        <li>Secured the backend with scoped API keys, JWT Authentication, and rate-limiting.</li>
+        <li>Optimized with Redis caching and pagination following system design principles, cutting p95 from >2s to <500ms.</li>
+        <li>Containerized with Docker, deployed on AWS with S3, and automated with a CI/CD pipeline.</li>
+      </ul><h3></h3>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <h3><a href="https://github.com/your-username/bright-academy-app">Bright Academy - App + Student Manager</a></h3>
+      <ul>
+        <li>Developed a cross-platform app using React Native with 15+ routed screens and a CMS-powered backend.</li>
+        <li>Managed the pre-launch phase by collecting feedback from 20+ alpha testers and fixing 3 bugs before the Google Playstore Launch.</li>
+      </ul><h3></h3>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <h3><a href="https://github.com/your-username/sartha-mentorship">Sartha - Mentorship Platform</a></h3>
+      <ul>
+        <li>Launched a platform acquiring 100+ students across 10+ institutions in the first month.</li>
+        <li>Designed RESTful APIs with Node.js to manage data for 50+ mentors and 30+ college reviews.</li>
+        <li>Deployed on AWS EC2, maintaining 100% HTTPS uptime with Certbot SSL automation.</li>
+      </ul>
+<h3></h3>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <h3><a href="https://github.com/your-username/aiims-fest-portal">AIIMS Gorakhpur - Fest Registration Portal</a></h3>
+      <ul>
+        <li>Shipped a portal with QR-based ticketing that handled 700+ user registrations for 50+ events.</li>
+        <li>The system saved an estimated 11+ hours in manual processing at entry points.</li>
+      </ul><h3></h3>
+    </td>
+  </tr>
+</table>
+
+
+---
+
+### 📊 My GitHub Stats
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=HattySohaib&show_icons=true&theme=radical" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HattySohaib&layout=compact&theme=radical" />
+</p>

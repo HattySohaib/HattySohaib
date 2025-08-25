@@ -62,7 +62,7 @@ My passion lies in building scalable backend systems, designing cloud infrastruc
 <table>
   <tr>
     <td>
-      <h3><a href="https://github.com/your-username/irada-cms">Irada - CMS + Analytics + Widgets Library</a></h3>
+      <h3><a href="https://github.com/HattySohaib/Headless-CMS-Frontend">Irada - CMS + Analytics + Widgets Library</a></h3>
       <ul>
         <li>Built a scalable distributed system with a CMS, analytics, and 4 robust widgets published on npm & unpkg.</li>
         <li>Secured the backend with scoped API keys, JWT Authentication, and rate-limiting.</li>
@@ -73,30 +73,10 @@ My passion lies in building scalable backend systems, designing cloud infrastruc
   </tr>
   <tr>
     <td>
-      <h3><a href="https://github.com/your-username/bright-academy-app">Bright Academy - App + Student Manager</a></h3>
+      <h3><a href="https://github.com/HattySohaib/Bright-Academy-RN">Bright Academy - App + Student Manager</a></h3>
       <ul>
         <li>Developed a cross-platform app using React Native with 15+ routed screens and a CMS-powered backend.</li>
         <li>Managed the pre-launch phase by collecting feedback from 20+ alpha testers and fixing 3 bugs before the Google Playstore Launch.</li>
-      </ul><h3></h3>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <h3><a href="https://github.com/your-username/sartha-mentorship">Sartha - Mentorship Platform</a></h3>
-      <ul>
-        <li>Launched a platform acquiring 100+ students across 10+ institutions in the first month.</li>
-        <li>Designed RESTful APIs with Node.js to manage data for 50+ mentors and 30+ college reviews.</li>
-        <li>Deployed on AWS EC2, maintaining 100% HTTPS uptime with Certbot SSL automation.</li>
-      </ul>
-<h3></h3>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <h3><a href="https://github.com/your-username/aiims-fest-portal">AIIMS Gorakhpur - Fest Registration Portal</a></h3>
-      <ul>
-        <li>Shipped a portal with QR-based ticketing that handled 700+ user registrations for 50+ events.</li>
-        <li>The system saved an estimated 11+ hours in manual processing at entry points.</li>
       </ul><h3></h3>
     </td>
   </tr>
@@ -111,3 +91,4 @@ My passion lies in building scalable backend systems, designing cloud infrastruc
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=HattySohaib&show_icons=true&theme=radical" />
   <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HattySohaib&layout=compact&theme=radical" />
 </p>
+

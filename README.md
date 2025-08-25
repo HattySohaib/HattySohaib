@@ -62,7 +62,7 @@ My passion lies in building scalable backend systems, designing cloud infrastruc
 <table>
   <tr>
     <td>
-      <h3><a href="https://github.com/HattySohaib/Headless-CMS-Frontend">Irada - CMS + Analytics + Widgets Library</a></h3>
+      <h3><a href="https://github.com/HattySohaib/Headless-CMS-Backend">Irada - CMS + Analytics + Widgets Library</a></h3>
       <ul>
         <li>Built a scalable distributed system with a CMS, analytics, and 4 robust widgets published on npm & unpkg.</li>
         <li>Secured the backend with scoped API keys, JWT Authentication, and rate-limiting.</li>
@@ -91,4 +91,5 @@ My passion lies in building scalable backend systems, designing cloud infrastruc
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=HattySohaib&show_icons=true&theme=radical" />
   <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HattySohaib&layout=compact&theme=radical" />
 </p>
+
 
